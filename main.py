@@ -60,6 +60,22 @@
 #     print("age is equal to 18")
 
 
+def check_status(code):
+    match code:
+        case 200:
+            return "success"
+        case 400:
+            return "Bad Request"
+        case 404:
+            return "Not Found"
+        case _:
+            return "Unknown Status"
+
+print(check_status(405))        
+
+
+
+
 
 
 

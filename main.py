@@ -60,18 +60,84 @@
 #     print("age is equal to 18")
 
 
-def check_status(code):
-    match code:
-        case 200:
-            return "success"
-        case 400:
-            return "Bad Request"
-        case 404:
-            return "Not Found"
-        case _:
-            return "Unknown Status"
+# def check_status(code):
+#     match code:
+#         case 200:
+#             return "success"
+#         case 400:
+#             return "Bad Request"
+#         case 404:
+#             return "Not Found"
+#         case _:
+#             return "Unknown Status"
 
-print(check_status(405))        
+# print(check_status(405))        
+
+
+
+# list=[1,2,3,4,"Ram",True,2.0]
+# list=[1,2,3,4,0,77,43]
+
+# # help(list)
+# list.sort()
+# print(list)
+# list.sort(reverse=True)
+# print(list)
+
+# list.append(10);
+# print(list)
+# # print(list[0:5])
+
+# list.reverse()
+# print(list)
+
+# list.insert(0,12)
+# print(list)
+# list.remove(2)
+# print(list)
+# list.pop()
+# print(list)
+
+
+# t=(1,3,4,5,10,12)
+
+# t.index(4)
+
+# print(t.index(4))
+# print(t.count(4))
+
+
+
+# set1={1,2,3,4,5,6,6}
+# set2={6,6,7,8,9,10}
+
+# print(set1)
+# print(set2)
+
+# set1.add(7)
+# print(set1)
+# set2.remove(6)
+# print(set2)
+
+
+# set1.pop()
+# print(set1)
+# set1.union(set2)
+# print(set1)
+# set1.intersection(set2)
+
+# print(set1)
+
+# set2.clear()
+# print(set2)
+
+# seq=range(5)
+
+# for val in seq:
+#     print(val)
+
+
+
 
 
 

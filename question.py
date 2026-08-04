@@ -8,11 +8,10 @@ def sum():
     b= int(input("Enter the Value:- "))
     print(a+b)
 
-def evenOdd(val):
-    if val%2==0:
-        print("EVEN")
-    else:
-        print("ODD") 
+def evenOdd():
+    val= int(input("Enter the Value:- "))
+    print("EVEN" if val%2==0 else "ODD" )
+
 
 def multiTable():
    val= int(input("Enter the Value:- "))

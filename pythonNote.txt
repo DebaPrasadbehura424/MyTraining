@@ -1,1 +1,11 @@
 lets Read about switch case 
+
+Break use to Terminate the loop
+
+continue Terminate execution in the current iteration
+
+
+
+
+
+

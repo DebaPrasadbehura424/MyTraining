@@ -136,8 +136,15 @@
 # for val in seq:
 #     print(val)
 
-for i in range(0,10,2):
-    print(i)   
+for i in range(0,10):
+    if i==3:
+       continue
+    if i==5:
+        break
+    print(i) 
+
+
+  
 
 
 

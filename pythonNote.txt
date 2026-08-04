@@ -3,9 +3,13 @@ lets Read about switch case
 Break use to Terminate the loop
 
 continue Terminate execution in the current iteration
+and continue the loop with the next iteration
 
 
+FILE HANDLING
 
+IN PYTHON FILE HANDLING USED STORE SOME DATA IN FILE 
 
+READ,WRITE,CREATE,APPEND, TEXT, BINARY,DELETE ,
 
 

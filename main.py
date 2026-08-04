@@ -136,12 +136,28 @@
 # for val in seq:
 #     print(val)
 
-for i in range(0,10):
-    if i==3:
-       continue
-    if i==5:
-        break
-    print(i) 
+# for i in range(0,10):
+#     if i==3:
+#        continue
+#     if i==5:
+#         break
+#     print(i) 
+
+
+# i=1
+
+# while i<100:
+#     print(i)
+#     if i==34:
+#         break
+#     i+=1
+
+# fs=open("manas.txt",'x')
+file= open("titu.txt",'w')
+# file= open("manas.txt",'w')
+file.write("Hi I am deba")
+
+
 
 
   

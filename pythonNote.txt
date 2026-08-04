@@ -10,6 +10,10 @@ FILE HANDLING
 
 IN PYTHON FILE HANDLING USED STORE SOME DATA IN FILE 
 
-READ,WRITE,CREATE,APPEND, TEXT, BINARY,DELETE ,
+READ,WRITE,CREATE,APPEND, TEXT, BINARY,DELETE 
+
+
+Function it is reusable block of code used to perform specific task they help to organise perform in smaller section
+ and execute the program calling Function
 
 

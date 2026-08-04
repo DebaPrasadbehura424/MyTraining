@@ -153,9 +153,27 @@
 #     i+=1
 
 # fs=open("manas.txt",'x')
-file= open("titu.txt",'w')
-# file= open("manas.txt",'w')
-file.write("Hi I am deba")
+# # file= open("manas.txt",'w')
+
+# file= open("titu.txt",'w')
+# file.write("Hi I am manas")
+
+# # a=file.read()
+# print(file)
+
+
+# file= open("titu.txt",'a')
+# file.write("Hi I am titu")
+# print(file)
+
+# file= open("note.txt",'a')
+# file.write("Hi I am titu")
+
+
+
+
+
+
 
 
 

@@ -171,6 +171,48 @@
 
 
 
+# list=[12,34,67,99,105,11,5,5,34]
+
+# seen={}
+# res=[]
+
+# for num in list:
+#     if num not in seen:
+#         seen[num]=True
+#         res.append(num)
+
+
+# print(res)
+
+
+# max_num=0;
+
+for i in range(len(list)):
+    if list[i]>max_num:
+        max_num=list[i]
+
+print(max_num)  
+
+
+
+s=set()
+for i in range(len(list)):
+     if list[i] not  in s:
+         s.add(list[i])
+
+
+# print(s)
+
+
+
+
+
+
+
+
+
+
+
 
 
 

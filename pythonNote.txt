@@ -24,7 +24,10 @@ Function working domain algebra,matrix,fourier series
 application of Numpy
 There are various place we are use numpy like math,plotting grpah, backend plot ,ml,Dl
 
+NUMPY denoted as numpy as np
 
+
+numpy have three dimensional array ,
 
 
 

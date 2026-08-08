@@ -10,7 +10,7 @@ if not cap.isOpened():
     exit()
 
 print("Camera started...")
-print("Press Q to quit")
+
 
 
 while True:

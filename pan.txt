@@ -1,0 +1,22 @@
+ it is open source python library
+ use for data manipulation and analysis 
+ mainly pandas resolve two primary data structure
+
+Series
+dataFrame
+
+Series use for one dimensional structure label and array  it capable to handling any datatype 
+dataFrame USED FOR 2D , 3D, and multi dimensional tables like structure with row and column can handle
+
+
+opration of pandas
+
+data cleaning
+it handle the missing value and remove the duplicate value
+
+data Tranformation 
+
+reshape the dataFrame and merge and join
+
+data analysis aggregation and filtering
+
